@@ -8,7 +8,13 @@
 <loc>http://localhost:4000/ice-out-northfield/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/ice-out-northfield/get-help/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/ice-out-northfield/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/ice-out-northfield/announcements/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/ice-out-northfield/admin/</loc>

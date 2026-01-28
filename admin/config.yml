@@ -1,3 +1,16 @@
+media_folder: "assets/images/uploads"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
 # Use DecapBridge PKCE auth (required)
 backend:
   name: git-gateway
