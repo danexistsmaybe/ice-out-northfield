@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/jekyll/update/2026/01/27/welcome-to-jekyll.html</loc>
+<loc>http://localhost:4000/ice-out-northfield/jekyll/update/2026/01/27/welcome-to-jekyll.html</loc>
 <lastmod>2026-01-27T15:25:58-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>http://localhost:4000/ice-out-northfield/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/ice-out-northfield/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/admin/</loc>
+<loc>http://localhost:4000/ice-out-northfield/admin/</loc>
 <lastmod>2026-01-27T15:33:36-06:00</lastmod>
 </url>
 </urlset>
