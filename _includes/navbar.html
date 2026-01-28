@@ -9,7 +9,7 @@
 		<div class="nav-side">
             {% for page in site.pages %}
                 {% if page.nav == true %}
-                    <a href="{{page.url}}"><div class="nav-item">
+                    <a href="{{ site.baseurl }}{{page.url}}"><div class="nav-item">
                         {{page.title}}
                     </div></a>
                 {% endif %}
@@ -29,7 +29,7 @@
 	<div id="sidebar"><div class="flex-col">
         {% for page in site.pages %}
             {% if page.nav == true %}
-                <a href="{{ page.url }}"><div class="side-item">
+                <a href="{{ site.baseurl }}{{ page.url }}"><div class="side-item">
                     {{ page.title }}
                 </div></a>
             {% endif %}
